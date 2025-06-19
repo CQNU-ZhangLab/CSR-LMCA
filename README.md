@@ -8,6 +8,7 @@ We propose a radiology report generation model based on comprehensive  sequence 
 We used two public datasets (IU X-Ray and MIMIC-CXR) in this study :
 - For [Iu X-Ray](https://drive.google.com/file/d/1c0BXEuDy8Cmm2jfN0YYGkQxFZd2ZIoLg/view?usp=sharing) ,  you can download the dataset and then put the files in data/iu_xray.
 - For [MIMIC-CXR](https://drive.google.com/file/d/1DS6NYirOXQf8qYieSVMvqNwuOlgAbM_E/view?usp=sharing),  you can download the dataset and then put the files in data/MIMIC-CXR.
+we used weights for sdam module can download [there](https://pan.baidu.com/s/17etHuU7W8T3CJfAHTjtTAw?pwd=p8rv )
 
 ## How to Use
 
